@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Luis</h1>
-<h3 align="center">I'm a passionate full-stack developer from 🇲🇽. Always learning.</h3>
-<img align="center" alt="laptop-closed" width="800" src="https://images.unsplash.com/photo-1581472723648-909f4851d4ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
+<h3 align="center">I'm a full-stack developer from 🇲🇽 </h3>
+<img class="contain" align="left" alt="laptop-closed" width="1000" height="400" src="https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlarriaga&label=Profile%20views&color=0e75b6&style=flat" alt="jlarriaga" /> </p>
 
