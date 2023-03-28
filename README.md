@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cartago](https://github.com/jlarriaga/cartago-cartagena-front)
 
-- 🌱 I’m currently learning **Nextjs, Typescript,**
+- 🌱 I’m currently learning **Nextjs, Typescript, OpenAI **
 
 - 👯 I’m currently working on [Rocket Closet](https://www.rocketcloset.com/)
 
